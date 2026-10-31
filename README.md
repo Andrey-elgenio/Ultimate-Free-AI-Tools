@@ -31,6 +31,7 @@ Quick links:
 
 ## 💻 Coding & Dev
 
+* [agent-qa](https://vostride.com) – Web/mobile testing with memidex memory and validated self-improvement; supports free local-model use under FSL-1.1-ALv2.
 * [Cursor](https://cursor.com) – VS Code fork with fast inline AI edits and codebase-wide indexing.
 * [Hugging Face Spaces](https://huggingface.co/spaces) – Free hosting and live demos for thousands of community-built AI apps.
 * [OpenCode Interpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) – Open-source coding system designed to generate, execute, and refine code locally.
